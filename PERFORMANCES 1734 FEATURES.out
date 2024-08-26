@@ -1,0 +1,522 @@
+Balanced Accuracy KNN (split 1): 1.0
+Precision KNN (split 1): 1.0
+Recall KNN (split 1): 1.0
+F1 score KNN (split 1): 1.0
+Specificity KNN: (split 1) 1.0
+AUC-ROC KNN (split 1): 1.0
+
+
+Balanced Accuracy Random Forest (split 1): 0.9285714285714286
+Precision Random Forest (split 1): 1.0
+Recall Random Forest (split 1): 0.8571428571428571
+F1 score Random Forest (split 1): 0.923076923076923
+Specificity Random Forest: (split 1) 1.0
+AUC-ROC Random Forest (split 1): 1.0
+
+
+Balanced Accuracy Logistic Regression (split 1): 1.0
+Precision Logistic Regression (split 1): 1.0
+Recall Logistic Regression (split 1): 1.0
+F1 score Logistic Regression (split 1): 1.0
+Specificity Logistic Regression: (split 1) 1.0
+AUC-ROC Logistic Regression (split 1): 1.0
+
+
+Balanced Accuracy Gradient Boosting (split 1): 0.9285714285714286
+Precision Gradient Boosting (split 1): 1.0
+Recall Gradient Boosting (split 1): 0.8571428571428571
+F1 score Gradient Boosting (split 1): 0.923076923076923
+Specificity Gradient Boosting: (split 1) 1.0
+AUC-ROC Gradient Boosting (split 1): 1.0
+
+
+Balanced Accuracy SVC (split 1): 0.9285714285714286
+Precision SVC (split 1): 1.0
+Recall SVC (split 1): 0.8571428571428571
+F1 score SVC (split 1): 0.923076923076923
+Specificity SVC: (split 1) 1.0
+AUC-ROC SVC (split 1): 0.978021978021978
+
+
+Balanced Accuracy Ensemble (split 1): 1.0
+Precision Ensemble (split 1): 1.0
+Recall Ensemble (split 1): 1.0
+F1 score Ensemble (split 1): 1.0
+Specificity Ensemble: (split 1) 1.0
+AUC-ROC Ensemble (split 1): 1.0
+
+
+Balanced Accuracy KNN (split 2): 0.8833333333333333
+Precision KNN (split 2): 0.8333333333333334
+Recall KNN (split 2): 0.8333333333333334
+F1 score KNN (split 2): 0.8333333333333334
+Specificity KNN: (split 2) 0.9333333333333333
+AUC-ROC KNN (split 2): 0.8833333333333334
+
+
+Balanced Accuracy Random Forest (split 2): 0.8833333333333333
+Precision Random Forest (split 2): 0.8333333333333334
+Recall Random Forest (split 2): 0.8333333333333334
+F1 score Random Forest (split 2): 0.8333333333333334
+Specificity Random Forest: (split 2) 0.9333333333333333
+AUC-ROC Random Forest (split 2): 0.9777777777777779
+
+
+Balanced Accuracy Logistic Regression (split 2): 0.8833333333333333
+Precision Logistic Regression (split 2): 0.8333333333333334
+Recall Logistic Regression (split 2): 0.8333333333333334
+F1 score Logistic Regression (split 2): 0.8333333333333334
+Specificity Logistic Regression: (split 2) 0.9333333333333333
+AUC-ROC Logistic Regression (split 2): 0.9777777777777777
+
+
+Balanced Accuracy Gradient Boosting (split 2): 0.8833333333333333
+Precision Gradient Boosting (split 2): 0.8333333333333334
+Recall Gradient Boosting (split 2): 0.8333333333333334
+F1 score Gradient Boosting (split 2): 0.8333333333333334
+Specificity Gradient Boosting: (split 2) 0.9333333333333333
+AUC-ROC Gradient Boosting (split 2): 0.9666666666666667
+
+
+Balanced Accuracy SVC (split 2): 0.8833333333333333
+Precision SVC (split 2): 0.8333333333333334
+Recall SVC (split 2): 0.8333333333333334
+F1 score SVC (split 2): 0.8333333333333334
+Specificity SVC: (split 2) 0.9333333333333333
+AUC-ROC SVC (split 2): 0.9777777777777777
+
+
+Balanced Accuracy Ensemble (split 2): 0.8833333333333333
+Precision Ensemble (split 2): 0.8333333333333334
+Recall Ensemble (split 2): 0.8333333333333334
+F1 score Ensemble (split 2): 0.8333333333333334
+Specificity Ensemble: (split 2) 0.9333333333333333
+AUC-ROC Ensemble (split 2): 0.9888888888888889
+
+
+Balanced Accuracy KNN (split 3): 0.9666666666666667
+Precision KNN (split 3): 0.8333333333333334
+Recall KNN (split 3): 1.0
+F1 score KNN (split 3): 0.9090909090909091
+Specificity KNN: (split 3) 0.9333333333333333
+AUC-ROC KNN (split 3): 0.9666666666666667
+
+
+Balanced Accuracy Random Forest (split 3): 0.9666666666666667
+Precision Random Forest (split 3): 0.8333333333333334
+Recall Random Forest (split 3): 1.0
+F1 score Random Forest (split 3): 0.9090909090909091
+Specificity Random Forest: (split 3) 0.9333333333333333
+AUC-ROC Random Forest (split 3): 1.0
+
+
+Balanced Accuracy Logistic Regression (split 3): 0.9333333333333333
+Precision Logistic Regression (split 3): 0.7142857142857143
+Recall Logistic Regression (split 3): 1.0
+F1 score Logistic Regression (split 3): 0.8333333333333333
+Specificity Logistic Regression: (split 3) 0.8666666666666667
+AUC-ROC Logistic Regression (split 3): 0.9866666666666667
+
+
+Balanced Accuracy Gradient Boosting (split 3): 0.9666666666666667
+Precision Gradient Boosting (split 3): 0.8333333333333334
+Recall Gradient Boosting (split 3): 1.0
+F1 score Gradient Boosting (split 3): 0.9090909090909091
+Specificity Gradient Boosting: (split 3) 0.9333333333333333
+AUC-ROC Gradient Boosting (split 3): 1.0
+
+
+Balanced Accuracy SVC (split 3): 0.9666666666666667
+Precision SVC (split 3): 0.8333333333333334
+Recall SVC (split 3): 1.0
+F1 score SVC (split 3): 0.9090909090909091
+Specificity SVC: (split 3) 0.9333333333333333
+AUC-ROC SVC (split 3): 0.9866666666666667
+
+
+Balanced Accuracy Ensemble (split 3): 0.9666666666666667
+Precision Ensemble (split 3): 0.8333333333333334
+Recall Ensemble (split 3): 1.0
+F1 score Ensemble (split 3): 0.9090909090909091
+Specificity Ensemble: (split 3) 0.9333333333333333
+AUC-ROC Ensemble (split 3): 1.0
+
+
+Balanced Accuracy KNN (split 4): 0.9666666666666667
+Precision KNN (split 4): 0.8333333333333334
+Recall KNN (split 4): 1.0
+F1 score KNN (split 4): 0.9090909090909091
+Specificity KNN: (split 4) 0.9333333333333333
+AUC-ROC KNN (split 4): 0.9666666666666667
+
+
+Balanced Accuracy Random Forest (split 4): 0.9333333333333333
+Precision Random Forest (split 4): 0.7142857142857143
+Recall Random Forest (split 4): 1.0
+F1 score Random Forest (split 4): 0.8333333333333333
+Specificity Random Forest: (split 4) 0.8666666666666667
+AUC-ROC Random Forest (split 4): 1.0
+
+
+Balanced Accuracy Logistic Regression (split 4): 0.9333333333333333
+Precision Logistic Regression (split 4): 0.7142857142857143
+Recall Logistic Regression (split 4): 1.0
+F1 score Logistic Regression (split 4): 0.8333333333333333
+Specificity Logistic Regression: (split 4) 0.8666666666666667
+AUC-ROC Logistic Regression (split 4): 0.92
+
+
+Balanced Accuracy Gradient Boosting (split 4): 0.9666666666666667
+Precision Gradient Boosting (split 4): 0.8333333333333334
+Recall Gradient Boosting (split 4): 1.0
+F1 score Gradient Boosting (split 4): 0.9090909090909091
+Specificity Gradient Boosting: (split 4) 0.9333333333333333
+AUC-ROC Gradient Boosting (split 4): 1.0
+
+
+Balanced Accuracy SVC (split 4): 0.9666666666666667
+Precision SVC (split 4): 0.8333333333333334
+Recall SVC (split 4): 1.0
+F1 score SVC (split 4): 0.9090909090909091
+Specificity SVC: (split 4) 0.9333333333333333
+AUC-ROC SVC (split 4): 1.0
+
+
+Balanced Accuracy Ensemble (split 4): 0.9666666666666667
+Precision Ensemble (split 4): 0.8333333333333334
+Recall Ensemble (split 4): 1.0
+F1 score Ensemble (split 4): 0.9090909090909091
+Specificity Ensemble: (split 4) 0.9333333333333333
+AUC-ROC Ensemble (split 4): 1.0
+
+
+Balanced Accuracy KNN (split 5): 0.84375
+Precision KNN (split 5): 0.75
+Recall KNN (split 5): 0.75
+F1 score KNN (split 5): 0.75
+Specificity KNN: (split 5) 0.9375
+AUC-ROC KNN (split 5): 0.84375
+
+
+Balanced Accuracy Random Forest (split 5): 1.0
+Precision Random Forest (split 5): 1.0
+Recall Random Forest (split 5): 1.0
+F1 score Random Forest (split 5): 1.0
+Specificity Random Forest: (split 5) 1.0
+AUC-ROC Random Forest (split 5): 1.0
+
+
+Balanced Accuracy Logistic Regression (split 5): 0.96875
+Precision Logistic Regression (split 5): 0.8
+Recall Logistic Regression (split 5): 1.0
+F1 score Logistic Regression (split 5): 0.888888888888889
+Specificity Logistic Regression: (split 5) 0.9375
+AUC-ROC Logistic Regression (split 5): 1.0
+
+
+Balanced Accuracy Gradient Boosting (split 5): 0.96875
+Precision Gradient Boosting (split 5): 0.8
+Recall Gradient Boosting (split 5): 1.0
+F1 score Gradient Boosting (split 5): 0.888888888888889
+Specificity Gradient Boosting: (split 5) 0.9375
+AUC-ROC Gradient Boosting (split 5): 1.0
+
+
+Balanced Accuracy SVC (split 5): 0.96875
+Precision SVC (split 5): 0.8
+Recall SVC (split 5): 1.0
+F1 score SVC (split 5): 0.888888888888889
+Specificity SVC: (split 5) 0.9375
+AUC-ROC SVC (split 5): 1.0
+
+
+Balanced Accuracy Ensemble (split 5): 0.96875
+Precision Ensemble (split 5): 0.8
+Recall Ensemble (split 5): 1.0
+F1 score Ensemble (split 5): 0.888888888888889
+Specificity Ensemble: (split 5) 0.9375
+AUC-ROC Ensemble (split 5): 1.0
+
+
+Balanced Accuracy KNN (split 6): 0.9166666666666667
+Precision KNN (split 6): 1.0
+Recall KNN (split 6): 0.8333333333333334
+F1 score KNN (split 6): 0.9090909090909091
+Specificity KNN: (split 6) 1.0
+AUC-ROC KNN (split 6): 0.9166666666666667
+
+
+Balanced Accuracy Random Forest (split 6): 0.9166666666666667
+Precision Random Forest (split 6): 1.0
+Recall Random Forest (split 6): 0.8333333333333334
+F1 score Random Forest (split 6): 0.9090909090909091
+Specificity Random Forest: (split 6) 1.0
+AUC-ROC Random Forest (split 6): 0.9761904761904762
+
+
+Balanced Accuracy Logistic Regression (split 6): 0.9642857142857143
+Precision Logistic Regression (split 6): 0.8571428571428571
+Recall Logistic Regression (split 6): 1.0
+F1 score Logistic Regression (split 6): 0.923076923076923
+Specificity Logistic Regression: (split 6) 0.9285714285714286
+AUC-ROC Logistic Regression (split 6): 0.9880952380952381
+
+
+Balanced Accuracy Gradient Boosting (split 6): 0.9166666666666667
+Precision Gradient Boosting (split 6): 1.0
+Recall Gradient Boosting (split 6): 0.8333333333333334
+F1 score Gradient Boosting (split 6): 0.9090909090909091
+Specificity Gradient Boosting: (split 6) 1.0
+AUC-ROC Gradient Boosting (split 6): 0.9880952380952381
+
+
+Balanced Accuracy SVC (split 6): 0.8333333333333333
+Precision SVC (split 6): 1.0
+Recall SVC (split 6): 0.6666666666666666
+F1 score SVC (split 6): 0.8
+Specificity SVC: (split 6) 1.0
+AUC-ROC SVC (split 6): 0.9404761904761905
+
+
+Balanced Accuracy Ensemble (split 6): 0.9166666666666667
+Precision Ensemble (split 6): 1.0
+Recall Ensemble (split 6): 0.8333333333333334
+F1 score Ensemble (split 6): 0.9090909090909091
+Specificity Ensemble: (split 6) 1.0
+AUC-ROC Ensemble (split 6): 0.9880952380952381
+
+
+Balanced Accuracy KNN (split 7): 0.8990384615384616
+Precision KNN (split 7): 0.875
+Recall KNN (split 7): 0.875
+F1 score KNN (split 7): 0.875
+Specificity KNN: (split 7) 0.9230769230769231
+AUC-ROC KNN (split 7): 0.8990384615384616
+
+
+Balanced Accuracy Random Forest (split 7): 0.9375
+Precision Random Forest (split 7): 1.0
+Recall Random Forest (split 7): 0.875
+F1 score Random Forest (split 7): 0.9333333333333333
+Specificity Random Forest: (split 7) 1.0
+AUC-ROC Random Forest (split 7): 0.9230769230769229
+
+
+Balanced Accuracy Logistic Regression (split 7): 0.9375
+Precision Logistic Regression (split 7): 1.0
+Recall Logistic Regression (split 7): 0.875
+F1 score Logistic Regression (split 7): 0.9333333333333333
+Specificity Logistic Regression: (split 7) 1.0
+AUC-ROC Logistic Regression (split 7): 0.8942307692307693
+
+
+Balanced Accuracy Gradient Boosting (split 7): 0.9375
+Precision Gradient Boosting (split 7): 1.0
+Recall Gradient Boosting (split 7): 0.875
+F1 score Gradient Boosting (split 7): 0.9333333333333333
+Specificity Gradient Boosting: (split 7) 1.0
+AUC-ROC Gradient Boosting (split 7): 0.9615384615384616
+
+
+Balanced Accuracy SVC (split 7): 0.875
+Precision SVC (split 7): 1.0
+Recall SVC (split 7): 0.75
+F1 score SVC (split 7): 0.8571428571428571
+Specificity SVC: (split 7) 1.0
+AUC-ROC SVC (split 7): 0.9615384615384616
+
+
+Balanced Accuracy Ensemble (split 7): 0.9375
+Precision Ensemble (split 7): 1.0
+Recall Ensemble (split 7): 0.875
+F1 score Ensemble (split 7): 0.9333333333333333
+Specificity Ensemble: (split 7) 1.0
+AUC-ROC Ensemble (split 7): 0.9038461538461539
+
+
+Balanced Accuracy KNN (split 8): 0.8928571428571428
+Precision KNN (split 8): 0.8571428571428571
+Recall KNN (split 8): 0.8571428571428571
+F1 score KNN (split 8): 0.8571428571428571
+Specificity KNN: (split 8) 0.9285714285714286
+AUC-ROC KNN (split 8): 0.8877551020408164
+
+
+Balanced Accuracy Random Forest (split 8): 0.8928571428571428
+Precision Random Forest (split 8): 0.8571428571428571
+Recall Random Forest (split 8): 0.8571428571428571
+F1 score Random Forest (split 8): 0.8571428571428571
+Specificity Random Forest: (split 8) 0.9285714285714286
+AUC-ROC Random Forest (split 8): 0.9897959183673468
+
+
+Balanced Accuracy Logistic Regression (split 8): 0.8928571428571428
+Precision Logistic Regression (split 8): 0.8571428571428571
+Recall Logistic Regression (split 8): 0.8571428571428571
+F1 score Logistic Regression (split 8): 0.8571428571428571
+Specificity Logistic Regression: (split 8) 0.9285714285714286
+AUC-ROC Logistic Regression (split 8): 0.9591836734693878
+
+
+Balanced Accuracy Gradient Boosting (split 8): 0.9642857142857143
+Precision Gradient Boosting (split 8): 0.875
+Recall Gradient Boosting (split 8): 1.0
+F1 score Gradient Boosting (split 8): 0.9333333333333333
+Specificity Gradient Boosting: (split 8) 0.9285714285714286
+AUC-ROC Gradient Boosting (split 8): 1.0
+
+
+Balanced Accuracy SVC (split 8): 0.8571428571428571
+Precision SVC (split 8): 0.75
+Recall SVC (split 8): 0.8571428571428571
+F1 score SVC (split 8): 0.7999999999999999
+Specificity SVC: (split 8) 0.8571428571428571
+AUC-ROC SVC (split 8): 0.9489795918367346
+
+
+Balanced Accuracy Ensemble (split 8): 0.8928571428571428
+Precision Ensemble (split 8): 0.8571428571428571
+Recall Ensemble (split 8): 0.8571428571428571
+F1 score Ensemble (split 8): 0.8571428571428571
+Specificity Ensemble: (split 8) 0.9285714285714286
+AUC-ROC Ensemble (split 8): 0.979591836734694
+
+
+Balanced Accuracy KNN (split 9): 1.0
+Precision KNN (split 9): 1.0
+Recall KNN (split 9): 1.0
+F1 score KNN (split 9): 1.0
+Specificity KNN: (split 9) 1.0
+AUC-ROC KNN (split 9): 1.0
+
+
+Balanced Accuracy Random Forest (split 9): 1.0
+Precision Random Forest (split 9): 1.0
+Recall Random Forest (split 9): 1.0
+F1 score Random Forest (split 9): 1.0
+Specificity Random Forest: (split 9) 1.0
+AUC-ROC Random Forest (split 9): 1.0
+
+
+Balanced Accuracy Logistic Regression (split 9): 1.0
+Precision Logistic Regression (split 9): 1.0
+Recall Logistic Regression (split 9): 1.0
+F1 score Logistic Regression (split 9): 1.0
+Specificity Logistic Regression: (split 9) 1.0
+AUC-ROC Logistic Regression (split 9): 1.0
+
+
+Balanced Accuracy Gradient Boosting (split 9): 0.9666666666666667
+Precision Gradient Boosting (split 9): 0.8
+Recall Gradient Boosting (split 9): 1.0
+F1 score Gradient Boosting (split 9): 0.888888888888889
+Specificity Gradient Boosting: (split 9) 0.9333333333333333
+AUC-ROC Gradient Boosting (split 9): 1.0
+
+
+Balanced Accuracy SVC (split 9): 1.0
+Precision SVC (split 9): 1.0
+Recall SVC (split 9): 1.0
+F1 score SVC (split 9): 1.0
+Specificity SVC: (split 9) 1.0
+AUC-ROC SVC (split 9): 1.0
+
+
+Balanced Accuracy Ensemble (split 9): 1.0
+Precision Ensemble (split 9): 1.0
+Recall Ensemble (split 9): 1.0
+F1 score Ensemble (split 9): 1.0
+Specificity Ensemble: (split 9) 1.0
+AUC-ROC Ensemble (split 9): 1.0
+
+
+Balanced Accuracy KNN (split 10): 0.9666666666666667
+Precision KNN (split 10): 0.8571428571428571
+Recall KNN (split 10): 1.0
+F1 score KNN (split 10): 0.923076923076923
+Specificity KNN: (split 10) 0.9333333333333333
+AUC-ROC KNN (split 10): 0.9666666666666667
+
+
+Balanced Accuracy Random Forest (split 10): 0.9333333333333333
+Precision Random Forest (split 10): 0.75
+Recall Random Forest (split 10): 1.0
+F1 score Random Forest (split 10): 0.8571428571428571
+Specificity Random Forest: (split 10) 0.8666666666666667
+AUC-ROC Random Forest (split 10): 1.0
+
+
+Balanced Accuracy Logistic Regression (split 10): 0.9333333333333333
+Precision Logistic Regression (split 10): 0.75
+Recall Logistic Regression (split 10): 1.0
+F1 score Logistic Regression (split 10): 0.8571428571428571
+Specificity Logistic Regression: (split 10) 0.8666666666666667
+AUC-ROC Logistic Regression (split 10): 0.9888888888888889
+
+
+Balanced Accuracy Gradient Boosting (split 10): 0.9666666666666667
+Precision Gradient Boosting (split 10): 0.8571428571428571
+Recall Gradient Boosting (split 10): 1.0
+F1 score Gradient Boosting (split 10): 0.923076923076923
+Specificity Gradient Boosting: (split 10) 0.9333333333333333
+AUC-ROC Gradient Boosting (split 10): 0.9777777777777777
+
+
+Balanced Accuracy SVC (split 10): 0.9666666666666667
+Precision SVC (split 10): 0.8571428571428571
+Recall SVC (split 10): 1.0
+F1 score SVC (split 10): 0.923076923076923
+Specificity SVC: (split 10) 0.9333333333333333
+AUC-ROC SVC (split 10): 0.9777777777777777
+
+
+Balanced Accuracy Ensemble (split 10): 0.9666666666666667
+Precision Ensemble (split 10): 0.8571428571428571
+Recall Ensemble (split 10): 1.0
+F1 score Ensemble (split 10): 0.923076923076923
+Specificity Ensemble: (split 10) 0.9333333333333333
+AUC-ROC Ensemble (split 10): 0.9777777777777777
+
+
+Mean Results KNN
+acc_test: 0.9335645604395604 +- 0.050832174041896064
+prec_test: 0.8839285714285715 +- 0.08218813451942021
+rec_test: 0.9148809523809524 +- 0.09035275100688672
+f1_test: 0.8965825840825842 +- 0.07076006648229752
+spec_test: 0.9522481684981685 +- 0.03146562289169696
+roc_auc_test: 0.9330543563579278 +- 0.05126198272478728
+Mean Results Random Forest
+acc_test: 0.9392261904761906 +- 0.0375617877213718
+prec_test: 0.898809523809524 +- 0.1084902056249931
+rec_test: 0.9255952380952381 +- 0.07525702368890543
+f1_test: 0.9055544455544456 +- 0.058363331269281296
+spec_test: 0.9528571428571428 +- 0.05227044620514789
+roc_auc_test: 0.9866841095412525 +- 0.023040994428878133
+Mean Results Logistic Regression
+acc_test: 0.9446726190476191 +- 0.037378025837063567
+prec_test: 0.8526190476190475 +- 0.10823491081147221
+rec_test: 0.956547619047619 +- 0.06702972992544093
+f1_test: 0.8959584859584859 +- 0.06213740954010208
+spec_test: 0.932797619047619 +- 0.05169768791129975
+roc_auc_test: 0.9714843014128729 +- 0.03472526042271479
+Mean Results Gradient Boosting
+acc_test: 0.946577380952381 +- 0.027785969951286328
+prec_test: 0.8832142857142857 +- 0.07935834296808025
+rec_test: 0.9398809523809524 +- 0.07446188283588358
+f1_test: 0.9051204351204352 +- 0.02822129396463189
+spec_test: 0.9532738095238095 +- 0.0306547619047619
+roc_auc_test: 0.9894078144078143 +- 0.01450519773132848
+Mean Results SVC
+acc_test: 0.9246130952380953 +- 0.054774204428772774
+prec_test: 0.8907142857142858 +- 0.09317071596228703
+rec_test: 0.8964285714285716 +- 0.11616144250836241
+f1_test: 0.8843700743700744 +- 0.05932290298870258
+spec_test: 0.9527976190476191 +- 0.044510159927085124
+roc_auc_test: 0.9771238444095587 +- 0.020101583253695245
+Mean Results Ensemble
+acc_test: 0.9499107142857144 +- 0.03893832018969247
+prec_test: 0.9014285714285716 +- 0.08184521645021357
+rec_test: 0.9398809523809524 +- 0.07446188283588358
+f1_test: 0.9163048063048063 +- 0.05063374192786841
+spec_test: 0.9599404761904762 +- 0.03276951955040881
+roc_auc_test: 0.9838199895342752 +- 0.02793409239255436
