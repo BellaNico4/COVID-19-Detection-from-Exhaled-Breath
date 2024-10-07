@@ -6,7 +6,7 @@ This repository contains the implementation of the models for COVID-19 predictio
 
 Our framework leverages breath fingerprints analysis to detect COVID-19 without explicit VOC identification. The approach is fast and straightforward to be implemented.
 
-For more details, refer to the paper [COVID-19 Detection from Exhaled Breath]([https://ieeexplore.ieee.org/document/10620213](https://www.nature.com/articles/s41598-024-74104-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241006&utm_content=10.1038/s41598-024-74104-1)).
+For more details, refer to the paper [COVID-19 Detection from Exhaled Breath(https://ieeexplore.ieee.org/document/10620213](https://www.nature.com/articles/s41598-024-74104-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20241006&utm_content=10.1038/s41598-024-74104-1).
 
 ## Citation
 
