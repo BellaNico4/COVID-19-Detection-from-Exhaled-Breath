@@ -11,16 +11,19 @@ Our framework leverages breath fingerprints analysis to detect COVID-19 without 
 If you use this code in your research, please cite the paper:
 
 ```
-@ARTICLE{bellarmino2024,
-  author={Bellarmino, Nicolò and Cantoro, Riccardo and Huch, Martin and Kilian, Tobias and Schlichtmann, Ulf and Squillero, Giovanni},
-  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems}, 
-  title={Deep Learning Strategies for Labeling and Accuracy Optimization in Microcontroller Performance Screening}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Transfer learning;Predictive models;Feature extraction;Data models;Testing;Microcontrollers;Accuracy;Fmax;Speed Monitors;Ring Oscillators;Speed Binning;Machine Learning;Device Testing;Manufacturing;Transfer Learning;Deep Learning},
-  doi={10.1109/TCAD.2024.3436542}}
+@article{Bellarmino2024,
+  title = {COVID-19 detection from exhaled breath},
+  volume = {14},
+  ISSN = {2045-2322},
+  url = {http://dx.doi.org/10.1038/s41598-024-74104-1},
+  DOI = {10.1038/s41598-024-74104-1},
+  number = {1},
+  journal = {Scientific Reports},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Bellarmino,  Nicolò and Cantoro,  Riccardo and Castelluzzo,  Michele and Correale,  Raffaele and Squillero,  Giovanni and Bozzini,  Giorgio and Castelletti,  Francesco and Ciricugno,  Carla and Dalla Gasperina,  Daniela and Dentali,  Francesco and Poggialini,  Giovanni and Salerno,  Piergiorgio and Taborelli,  Stefano},
+  year = {2024},
+  month = oct 
+}
 ```
 
 ## Contact
